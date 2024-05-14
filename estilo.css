@@ -1,0 +1,9 @@
+/* Establece el ancho máximo de todas las imágenes en 50 píxeles */
+img {
+    max-width: 50px;
+}
+
+/* Establece el tamaño de fuente para todos los párrafos */
+p {
+    font-size: 16px; /* Ajusta el tamaño de fuente según tus preferencias */
+}
